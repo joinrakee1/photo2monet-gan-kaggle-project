@@ -27,7 +27,7 @@ We trained and compared the following CycleGAN variants:
 
 ## Results
 
-Each model was evaluated by submitting generated images to Kaggle to receive a **MiFID score**, which measures similarity to real Monet paintings. Side-by-side visual results and scores are included in the notebook.
+Each model was evaluated by submitting generated images to Kaggle to receive a **MiFID score**, which measures similarity to real Monet paintings. Side-by-side visual results and scores are included in the notebook. Variant 2 achieved the best MiFID score (97.76), closely followed by Variant 1 (98.34), while the baseline model performed significantly worse with a score of 129.98.
 
 ## Requirements
 
